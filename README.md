@@ -1,2 +1,2 @@
-# BD-SQL-lanchonete
+# BD-SQL-Lanchonete
 Sql teste - modelo lanchonete 
